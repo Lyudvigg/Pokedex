@@ -5,9 +5,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #f4f4f4;
-  /* background: url(./assets/img/main_bg.jpg);
-  background-repeat: no-repeat;
-  background-size: cover; */
 };
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
