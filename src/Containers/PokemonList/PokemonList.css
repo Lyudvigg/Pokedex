@@ -1,0 +1,17 @@
+.container {
+  max-width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.content_wraper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.input_wrrapper{
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-around;
+}
